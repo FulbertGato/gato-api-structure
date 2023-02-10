@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "gato/apidefault",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "API Default folder structure",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
